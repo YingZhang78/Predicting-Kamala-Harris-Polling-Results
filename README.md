@@ -7,8 +7,8 @@ This repository provides a foundation for analyzing polling data for Kamala Harr
 ## File Structure
 The repository is structured as follows:
 - **president_polls**: Contains the raw data as obtained from [FiveThirtyEight 2024 Presidential Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/national/).
-- **clean_data**: Contains the cleaned dataset that was constructed for analysis.
-- **model_analysis**: Contains the fitted models.
+- **01—clean_data**: Contains the cleaned dataset that was constructed for analysis.
+- **02—model_analysis**: Contains the fitted models.
 - **paper**: Contains the files used to generate the paper, including the Quarto document and the reference bibliography file, as well as the PDF of the paper.
 
 ## LLM Usage
