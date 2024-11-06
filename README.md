@@ -10,6 +10,7 @@ The repository is structured as follows:
 - **01—clean_data**: Contains the cleaned dataset that was constructed for analysis.
 - **02—model_analysis**: Contains the fitted models.
 - **paper**: Contains the files used to generate the paper, including the Quarto document and the reference bibliography file, as well as the PDF of the paper.
+- **Others**: Contains the Sketches (shows the flowchart and some key figures) and the llms_usage.txt.
 
 ## LLM Usage
 Throughout the development of this project, various aspects of the code were refined with the assistance of ChatGPT. Specifically, the abstract and introduction were crafted with input from the language model. For transparency, a detailed log of all interactions with ChatGPT is stored in `inputs/llms_usage.txt`, documenting the contributions of this tool to the project.
